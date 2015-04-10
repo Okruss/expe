@@ -13,7 +13,7 @@ import java.util.regex.Pattern;
  * @author Mouse
  */
 public class NumeroLetra {
-//adddddd
+//mod from github
     private final String[] UNIDADES = {"", "un ", "dos ", "tres ", "cuatro ", "cinco ", "seis ", "siete ", "ocho ", "nueve "};
     private final String[] DECENAS = {"diez ", "once ", "doce ", "trece ", "catorce ", "quince ", "dieciseis ",
         "diecisiete ", "dieciocho ", "diecinueve", "veinte ", "treinta ", "cuarenta ",
